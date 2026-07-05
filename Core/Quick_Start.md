@@ -1,22 +1,30 @@
 # LIOS Quick Start
 
-#Link:
-Core/LIOS_Core.md
-
-Data:
-Data/Portfolio.xlsx
-https://github.com/LouisHuang19/LIOS/raw/refs/heads/main/Data/Portfolio.xlsx
-
-Replay:
-Data/Replay30.xlsx
+Version: v1.0.1-basic
 
 ## 新聊天室啟動流程
 
 1. 輸入：`🚀 啟動 LIOS`
-2. 上傳：`LIOS_Core.md`
+2. 上傳：`Core/LIOS_Core.md`
 3. 若要看持股：上傳 `Portfolio.xlsx`
-4. 若要做回測：上傳 `Replay.xlsx`
+4. 若要做 Replay：上傳 `Replay.xlsx`
 5. 若要分析當日技術面：上傳 K 線、OBV、MACD、KD、分價成交截圖
+
+## 最小啟動
+
+只上傳：
+- `Core/LIOS_Core.md`
+
+即可啟動 LIOS 的規則與流程。
+
+## 完整啟動
+
+上傳：
+- `Core/LIOS_Core.md`
+- `Portfolio.xlsx`
+- `Replay.xlsx`
+
+即可分析持股與執行 Replay。
 
 ## 常用指令
 
@@ -27,3 +35,4 @@ Data/Replay30.xlsx
 - 跑 Decision Engine：股票名稱
 - Replay：股票 + 日期
 - Strategy Lab：貼上新策略
+- Review Lab：檢討案例或規則
