@@ -1,5 +1,15 @@
 # LIOS Quick Start
 
+#Link:
+Core/LIOS_Core.md
+
+Data:
+Data/Portfolio.xlsx
+https://github.com/LouisHuang19/LIOS/raw/refs/heads/main/Data/Portfolio.xlsx
+
+Replay:
+Data/Replay30.xlsx
+
 ## 新聊天室啟動流程
 
 1. 輸入：`🚀 啟動 LIOS`
