@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## v1.0.5-basic — Part 6 Patch
+- 加入 Portfolio System 文件
+- 固定持股分類：核心 / 波段 / 觀察 / 成長
+- 加入健康度、信心等級、操作建議的定義
+- 加入 Portfolio 更新 SOP
+- 不新增新功能，只把持股管理流程文件化
+
 ## v1.0.4-basic — Part 5 Patch
 - 補強 Decision Engine 完整評分表
 - 加入買入 / 加碼 / 續抱 / 減碼 / 停損流程

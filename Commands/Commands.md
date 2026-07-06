@@ -87,3 +87,12 @@ Version: v1.0.2-basic
 - 跑 Decision Engine：<股票> 續抱
 - 跑 Decision Engine：<股票> 減碼
 - 跑 Decision Engine：<股票> 停損
+
+
+## Portfolio Commands
+
+- 查看持股診斷
+- 更新 Portfolio
+- 檢查弱勢持股
+- 檢查核心持股
+- 檢查現金比例
