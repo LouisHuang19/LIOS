@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## v1.0.4-basic — Part 5 Patch
+- 補強 Decision Engine 完整評分表
+- 加入買入 / 加碼 / 續抱 / 減碼 / 停損流程
+- 加入反方檢查範本
+- 加入 Decision Output Template
+- 不新增新功能，只把既有 Decision Engine 可執行化
+
 ## v1.0.3-basic — Part 4 Patch
 - 加入 Dashboard / 投資室定義
 - 加入 Battle Room / 戰情室定義

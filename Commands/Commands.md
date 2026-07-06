@@ -78,3 +78,12 @@ Version: v1.0.2-basic
 - 查看投資室：輸出 Dashboard
 - 查看戰情室：輸出 Battle Room
 - 查看風險室：輸出 Risk Room
+
+
+## Decision Commands
+
+- 跑 Decision Engine：<股票>，判斷買入
+- 跑 Decision Engine：<股票> 加碼
+- 跑 Decision Engine：<股票> 續抱
+- 跑 Decision Engine：<股票> 減碼
+- 跑 Decision Engine：<股票> 停損
