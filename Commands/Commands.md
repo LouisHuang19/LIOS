@@ -71,3 +71,10 @@ Version: v1.0.2-basic
 - LIOS 出場
 - 實際報酬
 - Review
+
+
+## Room Specific Commands
+
+- 查看投資室：輸出 Dashboard
+- 查看戰情室：輸出 Battle Room
+- 查看風險室：輸出 Risk Room

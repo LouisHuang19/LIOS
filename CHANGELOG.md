@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## v1.0.3-basic — Part 4 Patch
+- 加入 Dashboard / 投資室定義
+- 加入 Battle Room / 戰情室定義
+- 加入 Risk Room / 風險室固定輸出格式
+- 加入 Rooms index
+- 不新增新功能，只把已討論的「房間」輸出標準文件化
+
 ## v1.0.2-basic — Part 3 Patch
 - 加入每日使用流程文件 `Docs/Daily_Workflow.md`
 - 加入 GitHub / Google Drive 分工與上傳步驟 `Docs/Repository_Setup.md`
