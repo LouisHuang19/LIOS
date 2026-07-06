@@ -1,6 +1,6 @@
 # LIOS Commands
 
-Version: v1.0.1-basic
+Version: v1.0.2-basic
 
 ## Boot
 
@@ -34,3 +34,40 @@ Version: v1.0.1-basic
 4. 若要交易，跑 Decision Engine
 5. 若有新想法，送 Strategy Lab
 6. 若有歷史案例，送 Replay Lab
+
+## 固定輸出格式
+
+### 投資室
+
+需包含：
+- 資產總覽
+- 核心持股
+- 風險提醒
+- 今日一句
+
+### 風險室
+
+需包含：
+- 風險燈號
+- 現金狀態
+- AI / 半導體集中度
+- 弱勢持股
+- 禁止事項
+
+### Decision Engine
+
+需包含：
+- 分數
+- 燈號
+- 支持理由
+- 反方檢查
+- 建議動作
+
+### Replay
+
+需包含：
+- 當時可見資訊
+- LIOS 進場
+- LIOS 出場
+- 實際報酬
+- Review

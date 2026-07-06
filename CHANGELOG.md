@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.2-basic — Part 3 Patch
+- 加入每日使用流程文件 `Docs/Daily_Workflow.md`
+- 加入 GitHub / Google Drive 分工與上傳步驟 `Docs/Repository_Setup.md`
+- 加入資料欄位規格 `Docs/Data_Schema.md`
+- 加入文字版 CSV 範本，方便 Git 追蹤與人工檢查
+- 補強 Commands.md 的固定輸出格式
+- 不新增新功能，只把使用流程與資料格式固定下來
+
 ## v1.0.1-basic — Part 2 Patch
 - 補強 LIOS_Core.md 的啟動說明與使用邊界
 - 補強 Decision Engine 評分流程
