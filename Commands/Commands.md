@@ -105,3 +105,13 @@ Version: v1.0.2-basic
 - 查看 Replay30
 - 更新 Replay Status
 - 產生 Replay KPI
+
+
+## Scanner Commands
+
+- 查看選股室
+- 查看 S 級股票
+- 查看 Watchlist
+- 查看買點室
+- Scanner：<股票>
+- 加入 Watchlist：<股票>

@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v1.0.7-basic — Part 8 Patch
+- 加入 Scanner System 文件
+- 加入 S/A/B/C/D 評級規則
+- 加入 Watchlist、Buy Point、Ranking 文件
+- 加入 Scanner Template 與 Candidate Template
+- 補強 Rules/ScannerRules.md
+- 補強 Commands.md 的 Scanner 指令
+- 不新增新功能，只把既有選股室流程正式文件化
+
 ## v1.0.6-basic — Part 7 Patch
 - 加入 Replay System 文件
 - 加入 Replay30 專案說明

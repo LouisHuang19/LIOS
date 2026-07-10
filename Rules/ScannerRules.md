@@ -1,6 +1,6 @@
 # Scanner Rules
 
-Version: v1.0.1-basic
+Version: v1.0.7-basic
 
 ## S級
 
@@ -34,7 +34,29 @@ Version: v1.0.1-basic
 ## 選股室原則
 
 選股室不是每天找新股票，而是：
+
 1. 找出可取代弱勢股的標的
 2. 找出 B 級升 A 級的股票
 3. 找出符合 LIOS 條件的潛力股
 4. 避免因 FOMO 追高
+5. 建立 Watchlist，而不是衝動買進
+
+## Scanner -> Decision Engine
+
+Scanner 通過後，不代表買進。
+
+必須進入：
+
+> Decision Engine
+
+才可決定買入、等待或放棄。
+
+## 排除條件
+
+以下情況不列入買點：
+
+- 只因股價低於100元
+- 只因股價跌很多
+- 只因群組熱門
+- 只因單日法人買超
+- 只因 KD 低檔但 RS / OBV 仍弱

@@ -69,3 +69,7 @@ Google Drive 放每天會變的資料：
 ## Replay System
 
 Replay 文件位於 `Replay/`，用於 Project Alpha — Replay30。
+
+## Scanner System
+
+Scanner 文件位於 `Scanner/`，用於選股室、Watchlist、S級股票與買點室。
