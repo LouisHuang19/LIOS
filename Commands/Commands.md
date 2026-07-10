@@ -115,3 +115,11 @@ Version: v1.0.2-basic
 - 查看買點室
 - Scanner：<股票>
 - 加入 Watchlist：<股票>
+
+
+## Handbook Commands
+
+- 查看 Handbook
+- 查看 Quick Start
+- 查看 Cheat Sheet
+- 查看 FAQ

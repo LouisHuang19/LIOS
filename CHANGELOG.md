@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v1.0.8-basic — Part 9 Patch
+- 加入 Handbook 使用手冊
+- 加入 Quick Start、Daily Workflow、Rooms Guide、Decision Engine Guide
+- 加入 Portfolio / Replay / Scanner Guide
+- 加入 FAQ 與 Cheat Sheet
+- 更新 README 與 Commands
+- 不新增新功能，只把現有功能整理成可閱讀手冊
+
 ## v1.0.7-basic — Part 8 Patch
 - 加入 Scanner System 文件
 - 加入 S/A/B/C/D 評級規則
