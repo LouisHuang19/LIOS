@@ -65,3 +65,7 @@ Google Drive 放每天會變的資料：
 - `Docs/Daily_Workflow.md`
 - `Docs/Repository_Setup.md`
 - `Docs/Data_Schema.md`
+
+## Replay System
+
+Replay 文件位於 `Replay/`，用於 Project Alpha — Replay30。

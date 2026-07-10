@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## v1.0.6-basic — Part 7 Patch
+- 加入 Replay System 文件
+- 加入 Replay30 專案說明
+- 加入 Replay SOP、KPI、Checklist、Template、Review Template、FAQ
+- 加入 Replay Cases 範本 R001～R003
+- 補強 Rules/ReplayRules.md
+- 補強 Commands.md 的 Replay 指令
+- 不新增新的分析指標，只把既有 Replay 流程文件化
+
 ## v1.0.5-basic — Part 6 Patch
 - 加入 Portfolio System 文件
 - 固定持股分類：核心 / 波段 / 觀察 / 成長

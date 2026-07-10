@@ -96,3 +96,12 @@ Version: v1.0.2-basic
 - 檢查弱勢持股
 - 檢查核心持股
 - 檢查現金比例
+
+
+## Replay Commands
+
+- Replay：<股票> <日期>
+- Replay Review：<Replay ID>
+- 查看 Replay30
+- 更新 Replay Status
+- 產生 Replay KPI
