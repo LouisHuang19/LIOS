@@ -1,0 +1,48 @@
+{
+  "name": "LIOS",
+  "full_name": "Louis Investment Operating System",
+  "version": "v1.0.1",
+  "status": "stable-baseline",
+  "owner": "Louis",
+  "repository": "https://github.com/LouisHuang19/LIOS",
+  "raw_base": "https://raw.githubusercontent.com/LouisHuang19/LIOS/refs/heads/main",
+  "entrypoint": "Core/LIOS_Core.md",
+  "boot_command": "🚀 啟動 LIOS",
+  "required_documents": [
+    "Core/LIOS_Core.md",
+    "Commands/Commands.md",
+    "VERSION.md"
+  ],
+  "recommended_documents": [
+    "Rules/DecisionEngine.md",
+    "Rules/RiskRules.md",
+    "Rules/ReplayRules.md",
+    "Rules/ScannerRules.md",
+    "Rooms/Dashboard.md",
+    "Rooms/RiskRoom.md",
+    "Rooms/BattleRoom.md"
+  ],
+  "optional_documents": [
+    "Portfolio/PortfolioSystem.md",
+    "Replay/Replay_System.md",
+    "Scanner/Scanner_System.md",
+    "Handbook/README.md"
+  ],
+  "data_files": {
+    "portfolio": "Portfolio.xlsx",
+    "replay": "Replay.xlsx",
+    "journal": "Journal.xlsx",
+    "watchlist": "Watchlist.xlsx"
+  },
+  "boot_sequence": [
+    "Read bootstrap.json",
+    "Read required_documents in order",
+    "Load recommended_documents when relevant",
+    "Ask for data files only when needed",
+    "Use repository files as the source of truth for LIOS rules"
+  ],
+  "fallback": {
+    "on_remote_access_failure": "Ask the user to upload bootstrap.json and Core/LIOS_Core.md",
+    "do_not": "Do not recreate LIOS rules from memory when repository files are unavailable"
+  }
+}
